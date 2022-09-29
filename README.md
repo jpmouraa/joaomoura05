@@ -8,8 +8,8 @@
 
 <div>
 <a href="https://github.com/joaomoura05">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomoura05&layout=compact&langs_count=7&theme=dark" width="500" height="500"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomoura05&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="500" height="500"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomoura05&layout=compact&langs_count=7&theme=dark" width="250" height="250"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomoura05&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="250" height="250"/>
 </div>
 
 ## Tools and Technology
