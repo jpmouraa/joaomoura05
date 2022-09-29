@@ -23,6 +23,8 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
 <img width="90" height="60" src="https://www.tecnun.com.br/wp-content/uploads/2021/04/powerBI.jpg" class="attachment-full size-full wp-post-image" alt="Power BI" srcset="https://www.tecnun.com.br/wp-content/uploads/2021/04/powerBI-200x113.jpg 200w, https://www.tecnun.com.br/wp-content/uploads/2021/04/powerBI-400x225.jpg 400w, https://www.tecnun.com.br/wp-content/uploads/2021/04/powerBI-600x338.jpg 600w, https://www.tecnun.com.br/wp-content/uploads/2021/04/powerBI-800x450.jpg 800w, https://www.tecnun.com.br/wp-content/uploads/2021/04/powerBI-1200x675.jpg 1200w, https://www.tecnun.com.br/wp-content/uploads/2021/04/powerBI.jpg 1921w" sizes="(max-width: 800px) 100vw, 1921px" draggable="false">
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.bhs-alumni.org/wp-content/uploads/2010/07/g2_viewcore.DownloadItemg2_itemId1967.jpg" width="300" height="200">
+  
+ <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBT5jux6VxdcXxTeESeT3TPANEqmduVIOOjHb42ZNjig&amp;s"/>
 
              
 ## Contacts:
