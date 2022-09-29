@@ -12,7 +12,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomoura05&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="350" height="350"/>
 </div>
 
-## Tools and Technology
+## Languages, Tools and Technology
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/>
