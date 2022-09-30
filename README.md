@@ -14,14 +14,14 @@
 
 ## Languages, Tools and Technology
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="65" height="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"  width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="70" height="70"/>
 <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Citing and logo — seaborn 0.12.0 documentation" data-noaft="1" width="60" height="60" />
 <img src="https://matplotlib.org/_static/images/logo_dark.svg" class="logo__image only-dark" alt="Logo image" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="60" height="60"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>   
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="File:Postman (software).png - Wikimedia Commons" data-noaft="1" style="width: 110px; height: 35px; margin: 71.8444px 0px;"/>
 <img src="https://cdn.dribbble.com/users/439666/screenshots/10177720/media/641bf8537e2b92f74ce79746aab8c443.jpg?compress=1&amp;resize=400x300&amp;vertical=top" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Regex by Elmahdi Eddarqaoui on Dribbble" data-noaft="1" width="60" height="50"/>
 
