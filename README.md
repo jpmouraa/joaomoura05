@@ -20,6 +20,8 @@
 <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Citing and logo — seaborn 0.12.0 documentation" data-noaft="1" width="60" height="60" />
 <img src="https://matplotlib.org/_static/images/logo_dark.svg" class="logo__image only-dark" alt="Logo image" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="60" height="60"/>     
+<img src="https://daedalus-ldv.de/wp-content/uploads/2022/02/bs-1024x440.png" jsaction="load:XAeZkd;" width="110" height="55">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>   
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="File:Postman (software).png - Wikimedia Commons" data-noaft="1" style="width: 110px; height: 35px; margin: 71.8444px 0px;"/>
