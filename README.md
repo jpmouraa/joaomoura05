@@ -16,6 +16,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/>
+<img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Citing and logo — seaborn 0.12.0 documentation" data-noaft="1" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="65" height="65"/>
 <img src="https://matplotlib.org/_static/images/logo_dark.svg" class="logo__image only-dark" alt="Logo image" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="60" height="60"/>
