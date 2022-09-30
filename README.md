@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎲 I’m Data Science and Artificial Intelligence Student at PUCRS
-- 💻 I’m currently working on PROCERGS
+- 💻 I’m currently working at PROCERGS
 - 🤖 I’m currently learning Machine Learning
 
 ## Statistics
