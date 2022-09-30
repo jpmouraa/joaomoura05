@@ -14,15 +14,20 @@
 
 ## Languages, Tools and Technology
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="65" height="65"/>
 <img src="https://matplotlib.org/_static/images/logo_dark.svg" class="logo__image only-dark" alt="Logo image" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>   
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="File:Postman (software).png - Wikimedia Commons" data-noaft="1" style="width: 110px; height: 35px; margin: 71.8444px 0px;"/>
+<img src="https://cdn.dribbble.com/users/439666/screenshots/10177720/media/641bf8537e2b92f74ce79746aab8c443.jpg?compress=1&amp;resize=400x300&amp;vertical=top" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Regex by Elmahdi Eddarqaoui on Dribbble" data-noaft="1" width="60" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="70" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
-<img width="90" height="60" src="https://www.tecnun.com.br/wp-content/uploads/2021/04/powerBI.jpg" class="attachment-full size-full wp-post-image" alt="Power BI" srcset="https://www.tecnun.com.br/wp-content/uploads/2021/04/powerBI-200x113.jpg 200w, https://www.tecnun.com.br/wp-content/uploads/2021/04/powerBI-400x225.jpg 400w, https://www.tecnun.com.br/wp-content/uploads/2021/04/powerBI-600x338.jpg 600w, https://www.tecnun.com.br/wp-content/uploads/2021/04/powerBI-800x450.jpg 800w, https://www.tecnun.com.br/wp-content/uploads/2021/04/powerBI-1200x675.jpg 1200w, https://www.tecnun.com.br/wp-content/uploads/2021/04/powerBI.jpg 1921w" sizes="(max-width: 800px) 100vw, 1921px" draggable="false">
-          
+<img src="https://www.domosolucoes.com.br/wp-content/uploads/2020/09/power-bi.jpg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Microsoft Power BI Pro - Domo Soluções em TI" data-noaft="1" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
+
+
 ## Contacts:
 
 <div>
@@ -31,5 +36,4 @@
 <a href="https://instagram.com/jp.mouraa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div> 
 
-![Snake animation](https://github.com/joaomoura05/joaomoura05/blob/output/github-contribution-grid-snake.svg)
-                   
+![Snake animation](https://github.com/joaomoura05/joaomoura05/blob/output/github-contribution-grid-snake.svg)               
