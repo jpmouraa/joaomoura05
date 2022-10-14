@@ -14,6 +14,7 @@
 
 ## Languages, Tools and Technology
 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"  width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="70" height="70"/>
@@ -34,9 +35,7 @@
 <img src="https://static.wikia.nocookie.net/logopedia/images/d/d8/Colab.png/revision/latest?cb=20201019223838" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Google Colab | Logopedia | Fandom" data-noaft="1" width="80" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  width="60" height="60"/>         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="60" height="60"/>
-          
-          
-<a></a>
+</div>
 
 ## Contacts:
 
