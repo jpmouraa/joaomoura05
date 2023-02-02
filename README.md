@@ -7,9 +7,9 @@
 ## Statistics
 
 <div>
-<a href="https://github.com/jpmouraa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmouraa&layout=compact&langs_count=7&theme=dark" width="350" height="350"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpmouraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="350" height="350"/>
+<a href="https://github.com/joaomoura05">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomoura05&layout=compact&langs_count=7&theme=dark" width="350" height="350"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomoura05&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="350" height="350"/>
 </div>
 
 ## Languages, Tools and Technology
@@ -44,4 +44,4 @@
 <a href="https://instagram.com/jp.mouraa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div> 
 
-![Snake animation](https://github.com/jpmouraa/jpmouraa/blob/output/github-contribution-grid-snake.svg)               
+![Snake animation](https://github.com/joaomoura05/joaomoura05/blob/output/github-contribution-grid-snake.svg)               
