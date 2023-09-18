@@ -19,7 +19,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"  width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="70" height="70"/>
 <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Citing and logo — seaborn 0.12.0 documentation" data-noaft="1" width="60" height="60" />
-<img src="https://matplotlib.org/_static/images/logo_dark.svg" class="logo__image only-dark" alt="Logo image" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="60" height="60"/>     
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="File:Postman (software).png - Wikimedia Commons" data-noaft="1" style="width: 110px; height: 35px; margin: 71.8444px 0px;"/>
@@ -39,6 +38,4 @@
 <a href="https://www.linkedin.com/in/joão-pedro-de-moura-medeiros-aaab05202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:joaomoura70718@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/jp.mouraa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div> 
-
-![Snake animation](https://github.com/joaomoura05/joaomoura05/blob/output/github-contribution-grid-snake.svg)               
+</div>              
