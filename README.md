@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🎲 I’m Data Science and Artificial Intelligence Student at PUCRS
-- 💻 I’m currently looking for new opportunities
-- 🤖 I’m currently learning Machine Learning
+- 💻 I’m working at ADP Brazil Labs as Data Scientist
 
 ## Statistics
 
