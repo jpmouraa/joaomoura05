@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🎲 I’m Data Science and Artificial Intelligence Student at PUCRS
-- 💻 I’m working at ADP Brazil Labs as Data Scientist
+- 🎲 Bachelor of Data Science and Artificial Intelligence
 
 ## Statistics
 
